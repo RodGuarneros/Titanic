@@ -1,6 +1,8 @@
 # Titanic
 Practical case
 
+## Objetivo: Modelo de regresión logística que prediga qué pasajeros sobrevivieron al hundimiento del Titanic, en función de características como la edad y la clase. 
+
 El RMS Titanic zarpó en su viaje inaugural en 1912, cruzando el Atlántico desde Southampton, Inglaterra, hasta la ciudad de Nueva York. El barco nunca completó el viaje, hundiéndose hasta el fondo del océano Atlántico después de chocar con un iceberg, derribando a 1.502 de los 2.224 pasajeros a bordo. En este proyecto, creará un modelo de regresión logística que prediga qué pasajeros sobrevivieron al hundimiento del Titanic, en función de características como la edad y la clase. Kaggle proporciona los datos que usaremos para entrenar nuestro modelo. ¡Siéntete libre de mejorar el modelo por tu cuenta y enviarlo a la competencia Kaggle Titanic!
 
 Adjunto a este documento encontrarás el archivo script.py, que te servirá de guía para completar paso a paso nuestro proyecto integrador.
